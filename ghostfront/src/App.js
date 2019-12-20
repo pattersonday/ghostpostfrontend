@@ -5,6 +5,8 @@ import { NavLink, Route, withRouter } from "react-router-dom";
 import { Switch } from "react-router";
 import axios from "axios";
 
+'Received help from Zach and Matt'
+
 const API_HOST = "http://localhost:8000/boastsandroasts/";
 
 class App extends Component {
